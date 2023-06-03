@@ -1,4 +1,4 @@
 {
-    "api_Url": "https://ylearnit-backend-1-production.up.railway.app/api",
-    "apiUrl": "http://localhost:8081/api"
+    "apiUrl": "https://ylearnit-backend-1-production.up.railway.app/api",
+    "api_Url": "http://localhost:8081/api"
 }
