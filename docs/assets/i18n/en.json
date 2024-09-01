@@ -1,0 +1,120 @@
+{
+    "target-lang": "Target lang",
+    "source-lang": "Source lang",
+    "lang": "Lang",
+    "en": "English",
+    "ru": "Russian",
+    "ja": "Japanese",
+    
+    "login": {
+        "login-form": "Login form",
+        "login": "Login",
+        "password": "Password",
+        "necessary": "Necessary",
+        "entry": "Log in",
+        "show": "Show",
+        "hide": "Hide",
+        "remember-me": "Remember me",
+        "not-registered": "Not registered?",
+        "alert": "Incorrect login or password"
+    },
+    "register": {
+        "register-form": "Register form",
+        "login": "Login",
+        "password": "Password",
+        "password-repeat": "Repeat password",
+        "register": "Register",
+        "have-account": "Already have an account? Sign in.",
+        "show": "Show",
+        "hide": "Hide",
+        "necessary": "Necessary",
+        "login-min-length": "Minimum 3 characters",
+        "login-max-length": "Maximum 25 characters",
+        "login-pattern": "Must only contain 'A-Z', 'a-z', numbers and symbols '_#?!&*~-'",
+        "password-min-length": "Minimum 8 characters",
+        "password-max-length": "Maximum 40 characters",
+        "password-requirements": "Requirements",
+        "password-other-requirements": "Include at least two of the following requirements",
+        "password-upper-case": "One uppercase character",
+        "password-lower-case": "One lowercase character",
+        "password-number-case": "One number",
+        "password-symbol-case": "One special symbol",
+        "password-not-other-case": "Must not contain other characters",
+        "password-match": "Passwords match",
+        "password-dont-match": "Passwords don't match"
+    },
+
+    "course": "Course",
+    "courses": "Courses",
+    "topic": "Topic",
+    "topics": "Topics",
+    "test": "Test",
+    "tests": "Tests",
+    "review": "Review",
+    "difficulty": "Difficulty",
+    "is-learning": "Is learning",
+    "statistics": "Statistics",
+    "add": "Add",
+    "search": "Search",
+    "total-topics": "Total topics",
+    "card": "Card",
+    "tag": "Tag",
+    "element": "Element",
+    "content": "Content",
+    "side-type": "Side type",
+    "history": "History",
+    "loop": "Loop",
+    "number": "Number",
+    "interval": "Interval",
+    "review-date": "Review date",
+    "answer-date": "Answer date",
+    "last-review": "Last review",
+    "next-review": "Next review",
+    "accuracy": "Accuracy",
+    "recall": "Recall",
+    "time": "Time",
+    "sec": "sec",
+    "question": "Question",
+    "answer": "Answer",
+    "your-answer": "Your answer",
+    "show-answer": "Show answer",
+    "next-question": "Next question",
+    "load-more": "Load more",
+
+    "dashboard": {
+        "title": "Added courses",
+        "no-courses": "No courses added"
+    },
+
+    "card-details": {
+        "title": "Learning element details"
+    },
+
+    "topic-details": {
+        "title": "Topic statistics"
+    },
+
+    "study-tests": {
+        "test-type": "Test type",
+        "shuffle": "Shuffle tests",
+        "no-tests": "No weak elements found. Choose another topic.",
+        "results": "Results"
+    },
+
+    "sm2": {
+        "rate": "Rate your answer",
+        "5": "5 - perfect response",
+        "4": "4 – correct answer after hesitation",
+        "3": "3 – correct answer is remembered with great difficulty",
+        "2": "2 – incorrect answer, where the correct one seemed easy to remember",
+        "1": "1 – incorrect answer, remembered the correct one",
+        "0": "0 – no answer, don’t remember"
+    },
+
+    "submit": "Submit",
+    "begin": "Begin",
+    "start": "Start",
+    "finish": "Finish",
+    "end": "End",
+    "exit": "Exit"
+}
